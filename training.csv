@@ -1,0 +1,26 @@
+text,category
+password reset login account locked,Access
+authentication denied credentials sign in,Access
+cannot login user account password expired,Access
+multi factor authentication token login,Access
+account access permission denied,Access
+wifi internet connection disconnected network,Network
+router network outage connectivity slow,Network
+vpn connection timeout remote network,Network
+dns hostname resolution internet failure,Network
+ethernet packet loss network latency,Network
+printer paper jam hardware device,Hardware
+laptop battery screen broken hardware,Hardware
+monitor display cable flicker device,Hardware
+keyboard mouse usb peripheral damaged,Hardware
+computer power fan overheating hardware,Hardware
+application crash software error update,Software
+installation software program fails,Software
+spreadsheet application freeze version bug,Software
+browser extension software compatibility error,Software
+database application exception patch,Software
+invoice payment billing charge incorrect,Billing
+subscription refund billing renewal,Billing
+payment receipt invoice duplicate charge,Billing
+pricing tax invoice billing adjustment,Billing
+subscription cancellation payment refund,Billing
